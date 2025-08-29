@@ -7,8 +7,8 @@ A simple DC motor speed controller built using the classic 555 Timer IC.
 ## 🔧 The Circuit
 Here’s the soldered circuit I made on a **veroboard**:  
 
-![Veroboard Circuit - Front](images/veroboard_front.jpg)  
-![Veroboard Circuit - Back](images/veroboard_back.jpg)
+<img src="images/veroboard_front.jpg" width="400">  
+<img src="images/veroboard_back.jpg" width="400">
 
 ---
 
